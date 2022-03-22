@@ -9,8 +9,9 @@ Um pequeno projeto que realizei:[Projeto](https://github.com/GabrielStevanelli/f
 Minha linguagem de programação favorita é **ReactJS**, **Typescript** e **Javascript**.
 
 Já trabalhei fazendo:
-*Pizzas doces e salgadas em um Rodizio de pizzas
-*Gerenciando um site de um Empório sobre os produtos que saiam e entravam
-*Fabrica de pipocas doces e salgadas
-*Bolinhos de camarão empanado
-*Estoquista
+
+* Pizzas doces e salgadas em um Rodizio de pizzas
+* Gerenciando um site de um Empório sobre os produtos que saiam e entravam
+* Fabrica de pipocas doces e salgadas
+* Bolinhos de camarão empanado
+* Estoquista
